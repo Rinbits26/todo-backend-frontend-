@@ -9,7 +9,7 @@
 
 3. Install the required dependencies:
    ```bash
-   npm install
+      npm install
    ```
 #### 2. Run
 1. Navigate to the backend folder.
